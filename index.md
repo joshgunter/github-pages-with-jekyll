@@ -1,3 +1,9 @@
-# Welcome to my blog
+# Josh Gunter's Blog
 
-I'm glad you are here. I plan to talk about ...
+### Things I Like 
+
+- Television
+- Weightlifting
+- Books
+
+
